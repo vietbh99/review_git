@@ -1,2 +1,2 @@
 let greeting = 'Hi'
-console.log(greeting)
+console.warn(greeting)
