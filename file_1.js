@@ -1,2 +1,2 @@
-let greeting = 'Hi'
+let greeting = 'Good afternoon'
 console.warn(greeting)
